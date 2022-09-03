@@ -43,7 +43,7 @@ const Contact = () => {
     <>
       <Navbar />
       <section className="hero-section">
-        <p>Last but not the least </p>
+        <p>This is contact page</p>
         <h1>Contact Page</h1>
       </section>
     </>
